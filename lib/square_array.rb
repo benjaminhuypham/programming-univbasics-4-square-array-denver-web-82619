@@ -3,4 +3,3 @@ def square_array(array)
   puts array.map{|n| n*n}
 end
 
-square_array ([1,2,3,4])
